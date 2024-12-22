@@ -1,0 +1,5 @@
+media_type=.mp4;
+port=8888;
+chunk_size=1024;
+max_buffer_seconds=100;
+video_directories=storage1,storage2;
